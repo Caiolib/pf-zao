@@ -1,0 +1,8 @@
+br/insper/projeto/pf/FeedbackDTO.class
+br/insper/projeto/pf/Feedback.class
+br/insper/projeto/ProjetoApplication.class
+br/insper/projeto/pf/FeedbackRepository.class
+br/insper/projeto/pf/FeedbackService.class
+br/insper/projeto/pf/TokenFilter.class
+br/insper/projeto/pf/UserResponse.class
+br/insper/projeto/pf/FeedbackController.class
